@@ -2,6 +2,7 @@ PATH
   remote: ../../rack-ebpf
   specs:
     rack-ebpf (0.1.0)
+      rbbcc
       usdt_marker
 
 GEM
